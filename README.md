@@ -1,3 +1,4 @@
+## Trading System
 Several .py scripts are included in this respository.  
 
 IB_API_prod.py  
@@ -21,3 +22,6 @@ Backtest.py
 The backtest script is still very basic in terms of functionality (e.g. only
 one position can be open at a time).  However, this provides a glimpse into
 the performance of the strategy on out-of-sample data.  
+
+***
+Currently working on deep learning time-series modeling in conjunction with cross-sectional time-series.
